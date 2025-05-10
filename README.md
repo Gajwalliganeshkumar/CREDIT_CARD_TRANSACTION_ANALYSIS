@@ -1,4 +1,6 @@
-# 💳 Credit Card Transaction Analysis Dashboard (Power BI)
+# 💳 Credit Card Transaction Analysis Dashboard (Power BI) 
+
+Project Link : https://app.powerbi.com/links/wGCP2dSItr?ctid=0848a6e4-dbce-4c74-b303-a02e70f9a482&pbi_source=linkShare
 
 This Power BI project analyzes credit card transaction data to uncover key insights into customer spending behavior. It includes interactive visualizations, detailed monthly trends, and category-wise breakdowns, enabling financial analysis and strategic decision-making
 
